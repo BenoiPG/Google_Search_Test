@@ -52,6 +52,8 @@ public class searchProducts {
 		System.out.println("=======================");
 		Assert.assertTrue(searchResult.isDisplayed());
 		
+		System.out.println("==Making changes for Git Hub=====================");
+		
 	}
 
 
